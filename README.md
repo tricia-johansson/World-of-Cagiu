@@ -4,4 +4,4 @@ Cagiu stands for Caged Girl Universe and is a fantasy/horror roleplaying website
 
 To see this project live go to this link: https://tricia-johansson.github.io/World-of-Cagiu/index.html
 
-![Screenshot](https://tricii.com/cagiu.png)
+![Screenshot](https://trixjoyce.com/GitHub/cagiu.png)
